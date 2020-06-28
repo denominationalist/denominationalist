@@ -1,0 +1,85 @@
+* {
+	margin: 0;
+	border: 0;
+	padding: 0;
+}
+h1 {
+	text-align: center;
+	font-size: 300%;
+	color: #4A4444;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	margin: 9% 0;
+}
+h2 {
+	text-align: center;
+	font-size: 275%;
+	color: #E5E5E5;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+}
+p {
+	background: rgba(0,0,0,0.5);
+	text-align: center;
+	opacity:1;
+	font-size: 100%;
+	color: #E5E5E5;
+	letter-spacing: 2px;
+	margin: 1% 0;
+}
+
+h5 {
+	text-align: center;
+	font-size: 300%;
+	color: #4A4444;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	margin: 10% 0;
+}
+
+hr {
+	color: #4A4444;
+	width: 10px;
+}
+a:link {
+  color: #FFE0C0;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #FFE0C0;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FFE0C0;
+  background-color: transparent;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #FFE0C0;
+  background-color: transparent;
+  text-decoration: underline;
+}
+/*--- Start Parallax Style --*/
+.parallax {
+	background: url("parallax-2.jpg") repeat fixed 50%;
+	text-align: center;
+	Width: 90%;
+}
+.parallax-inner {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.footc-inner {
+	font-size: 100%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: #F0F0F0;
+	background-color: #000000;
+}
+/*--- End Parallax Style --*/

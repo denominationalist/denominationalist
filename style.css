@@ -69,7 +69,7 @@ a:active {
 }
 /*--- Start Parallax Style --*/
 .parallax {
-	background: url("article1.jpg") repeat fixed 50%;
+	background: url("parallax-2.jpg") repeat fixed 50%;
 	text-align: center;
 	Width: 90%;
 }
@@ -83,6 +83,15 @@ a:active {
 	Width: 90%;
 }
 .parallax-inner2 {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.parallax3 {
+	background: url("article3.jpg") repeat fixed 50%;
+	text-align: center;
+	Width: 90%;
+}
+.parallax-inner3 {
 	padding-top: 10px;
 	padding-bottom: 10px;
 }

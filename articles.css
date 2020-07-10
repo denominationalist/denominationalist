@@ -1,0 +1,64 @@
+* {
+	margin: 0;
+	border: 0;
+	padding: 0;
+}
+h1 {
+	text-align: center;
+	font-size: 400%;
+	color: #4A4444;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	margin-top: 0%;
+	margin-bottom: 6%;
+}
+h2 {
+	text-align: center;
+	font-size: 200%;
+	color: #4A4444;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	margin: 1% 0;
+}
+p {
+	text-align: left;
+	font-size: 130%;
+	color: #4A4444;
+	letter-spacing: 2px;
+	margin: 1% 0;
+}
+
+h5 {
+	text-align: center;
+	font-size: 300%;
+	color: #4A4444;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	margin: 5% 0;
+}
+
+hr {
+	color: #4A4444;
+	width: 10px;
+}
+/*--- Start Parallax Style --*/
+.parallax {
+	background-color: #f2f5f7;
+	text-align: center;
+	Width: 90%;
+}
+.parallax-inner {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.footc-inner {
+	font-size: 100%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: #F0F0F0;
+	background-color: #000000;
+}
+.titlepic {
+	text-align: center;	
+}
+/*--- End Parallax Style --*/

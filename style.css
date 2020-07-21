@@ -69,7 +69,7 @@ a:active {
 }
 /*--- Start Parallax Style --*/
 .parallax {
-	background: url("parallax-3.jpg") repeat fixed 50%;
+	background: url("article3.jpg") repeat fixed 50%;
 	text-align: center;
 	Width: 90%;
 }

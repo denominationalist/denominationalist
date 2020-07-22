@@ -95,6 +95,15 @@ a:active {
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
+.parallaxt {
+	background: url("test.jpg") repeat fixed 50%;
+	text-align: center;
+	Width: 90%;
+}
+.parallax-innert {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
 .footc-inner {
 	font-size: 100%;
 	padding-top: 10px;

@@ -61,4 +61,11 @@ hr {
 .titlepic {
 	text-align: center;	
 }
+.sources {
+	text-align: left;
+	font-size: 50%;
+	color: #000000;
+	letter-spacing: 1px;
+	margin: 1% 0;
+}
 /*--- End Parallax Style --*/

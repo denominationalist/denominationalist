@@ -68,6 +68,10 @@ a:active {
   text-decoration: underline;
 }
 /*--- Start Parallax Style --*/
+.embed-present{
+	width: 690; 
+	height: 690;
+}
 .parallax {
 	background: url("black.jpg") repeat fixed 50%;
 	text-align: center;
@@ -113,5 +117,11 @@ a:active {
 }
 .titlepic {
 	text-align: center;	
+}
+@media only screen and (max-device-width: 480px) {
+.embed-present{
+	width: 1000;
+	height: 1000;
+}
 }
 /*--- End Parallax Style --*/

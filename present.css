@@ -91,4 +91,9 @@ input[name="r"]{
   height: 900px;
   overflow: hidden;
 }
+body{
+  margin: 0;
+  padding: 0;
+  background: #CECAA2;
+}
 }

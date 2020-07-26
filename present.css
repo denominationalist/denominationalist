@@ -82,10 +82,6 @@ input[name="r"]{
   margin-left: -70%;
 }
 @media only screen and (max-device-width: 480px) {
-.words1{
-  width: 50%;
-  height: 50%;
-}
 .slidershow{
   width: 690px;
   height: 900px;

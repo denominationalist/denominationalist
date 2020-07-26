@@ -86,5 +86,9 @@ input[name="r"]{
   width: 50%;
   height: 50%;
 }
-
+.slidershow{
+  width: 690px;
+  height: 900px;
+  overflow: hidden;
+}
 }

@@ -84,7 +84,7 @@ input[name="r"]{
 @media only screen and (max-device-width: 480px) {
 .slidershow{
   width: 690px;
-  height: 900px;
+  height: 1000px;
   overflow: hidden;
 }
 body{

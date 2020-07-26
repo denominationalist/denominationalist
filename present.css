@@ -4,13 +4,13 @@ body{
   background: #FFFFF;
 }
 .slidershow{
-  width: 690px;
-  height: 690px;
+  width: 800px;
+  height: 800px;
   overflow: hidden;
 }
 .middle{
   position: absolute;
-  top: 50%;
+  top: 60%;
   left: 50%;
   transform: translate(-50%,-50%);
 }
@@ -20,7 +20,7 @@ body{
 }
 .navigation{
   position: absolute;
-  bottom: 10px;
+  bottom: 100px;
   left: 50%;
   transform: translateX(-50%);
   display: flex;

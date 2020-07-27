@@ -3,6 +3,9 @@ body{
   padding: 0;
   background: #FFFFF;
 }
+p{
+	font-size: 110%;
+}
 .slidershow{
   width: 690px;
   height: 690px;

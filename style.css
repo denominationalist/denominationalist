@@ -3,6 +3,11 @@
 	border: 0;
 	padding: 0;
 }
+#Home {
+    content: url('line.png');
+    height: 2%;
+    width: 2%;
+}
 .header{
 	position: sticky;
 	top: 0;
